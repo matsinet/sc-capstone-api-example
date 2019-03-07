@@ -1,0 +1,43 @@
+{
+    "cities": [
+        {
+            "id": 1,
+            "name": "St. Louis"
+        },
+        {
+            "id": 2,
+            "name": "Pittsburg"
+        }
+    ],
+    "sports": [
+        {
+            "id": 1,
+            "name": "Baseball",
+            "cityId": 1
+        },
+        {
+            "id": 2,
+            "name": "Hockey",
+            "cityId": 1
+        },
+        {
+            "id": 3,
+            "name": "Hockey",
+            "cityId": 2
+        }
+    ],
+    "locations": [
+        {
+            "id": 1,
+            "name": "Patty's",
+            "address": "1 Main Street",
+            "sportId": 1
+        },
+        {
+            "id": 2,
+            "name": "Webers",
+            "address": "99 Main Street",
+            "sportId": 3
+        }
+    ]
+}
