@@ -29,12 +29,12 @@
     "teams": [
         {
             "id": 1,
-            "St. Louis Cardinals",
+            "name": "St. Louis Cardinals",
             "sportId": 1
         },
         {
             "id": 2,
-            "St. Louis Blues",
+            "name": "St. Louis Blues",
             "sportId": 2
         }
     ],
