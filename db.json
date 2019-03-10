@@ -26,18 +26,30 @@
             "cityId": 2
         }
     ],
+    "teams": [
+        {
+            "id": 1,
+            "St. Louis Cardinals",
+            "sportId": 1
+        },
+        {
+            "id": 2,
+            "St. Louis Blues"
+            "sportId": 2,
+        }
+    ],
     "locations": [
         {
             "id": 1,
             "name": "Patty's",
             "address": "1 Main Street",
-            "sportId": 1
+            "teamId": 1
         },
         {
             "id": 2,
             "name": "Webers",
             "address": "99 Main Street",
-            "sportId": 3
+            "teamId": 2
         }
     ]
 }
