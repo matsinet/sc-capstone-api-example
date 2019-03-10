@@ -34,8 +34,8 @@
         },
         {
             "id": 2,
-            "St. Louis Blues"
-            "sportId": 2,
+            "St. Louis Blues",
+            "sportId": 2
         }
     ],
     "locations": [
